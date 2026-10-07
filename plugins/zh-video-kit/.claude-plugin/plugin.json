@@ -1,0 +1,10 @@
+{
+  "name": "zh-video-kit",
+  "displayName": "中文口播剪輯套件",
+  "version": "0.1.0",
+  "description": "中文口播影片自動剪輯：剪贅詞、口吃、停頓、重錄，並加上中文＋外語雙語字幕。所有處理都在本機進行。",
+  "author": {
+    "name": "daxingcourse"
+  },
+  "license": "LicenseRef-Proprietary"
+}

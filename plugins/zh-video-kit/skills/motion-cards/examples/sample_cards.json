@@ -1,0 +1,9 @@
+{
+  "meta": {"theme": "ink"},
+  "cards": [
+    {"type": "lower", "start": 0.3, "end": 3.2, "name": "示範講者", "title": "（頭銜由使用者提供）"},
+    {"type": "title", "start": 3.4, "end": 7.0, "text": "三個剪片的小技巧"},
+    {"type": "point", "start": 7.8, "end": 11.0, "label": "技巧一", "text": "先把空白剪掉"},
+    {"type": "stat", "start": 14.7, "end": 18.0, "number": "三個", "text": "剪片的小技巧"}
+  ]
+}

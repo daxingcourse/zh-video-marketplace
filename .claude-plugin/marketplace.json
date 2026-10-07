@@ -1,0 +1,14 @@
+{
+  "name": "zh-video-marketplace",
+  "description": "中文口播剪輯套件",
+  "owner": {
+    "name": "daxingcourse"
+  },
+  "plugins": [
+    {
+      "name": "zh-video-kit",
+      "source": "./plugins/zh-video-kit",
+      "description": "中文口播影片自動剪輯：剪贅詞、口吃、停頓、重錄，並加上中文＋外語雙語字幕。所有處理都在本機進行。"
+    }
+  ]
+}
