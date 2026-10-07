@@ -163,7 +163,7 @@ python "${CLAUDE_PLUGIN_ROOT}/skills/content-calendar/scripts/split_clips.py" su
 ### 其他路徑
 
 - 圖文、輪播：使用 `carousel-maker` skill（純文字排版的輪播圖，不用 AI 生圖）。
-- 文字（Threads、Email、長文）：依素材卡寫成完整稿，見上方「完整稿」。目前不提供排程發布，請使用者在各平台自己發布或排程（見 `後續功能規劃.md`）。
+- 文字（Threads、Email、長文）：依素材卡寫成完整稿，見上方「完整稿」。目前不提供排程發布，請使用者在各平台自己發布或排程。
 - AI聲音、AI數字人：目前尚未提供自動化，如實告知，建議先以「自己錄」完成。
 
 ## 常見的錯誤

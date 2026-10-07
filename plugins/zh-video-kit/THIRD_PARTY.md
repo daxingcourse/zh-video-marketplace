@@ -7,7 +7,7 @@
 
 下列資料夾與檔案由本套件作者自行撰寫：
 
-`zh-video-pipeline/`、`zh-clean-cut/`、`zh-bilingual-captions/`、`kit-tutor/`、`content-calendar/`、`carousel-maker/`、`practice/`、`CLAUDE.md`
+`zh-video-pipeline/`、`zh-clean-cut/`、`zh-bilingual-captions/`、`kit-tutor/`、`content-calendar/`、`carousel-maker/`、`practice/`
 
 授權條款：專屬授權，見根目錄 `LICENSE`（會員個人使用，禁止轉散布與轉售）。版權人：daxingcourse（2026 年）。此為依 GitHub 帳號暫填，正式名稱請於對外發布前確認。
 
